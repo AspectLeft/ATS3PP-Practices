@@ -35,3 +35,12 @@ tsc
 
 Then deploy `index.html` and `script/` to anywhere you like.
 I just used the simple local host in WebStorm.
+
+## Chapter 3
+
+![ch03](ch03.png)
+A React Bootstrap Personal Contacts Manager, including
+
++ A form with validations
++ A list of entities
++ IndexedDB for local storage
