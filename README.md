@@ -44,3 +44,12 @@ A React Bootstrap Personal Contacts Manager, including
 + A form with validations
 + A list of entities
 + IndexedDB for local storage
+
+## Chapter 4
+
+![ch04](ch04.png)
+A MEAN Photo Gallery, including
+
++ Angular frontend, with Material
++ Node.js backend, with Express.js
++ MongoDB to store the pictures

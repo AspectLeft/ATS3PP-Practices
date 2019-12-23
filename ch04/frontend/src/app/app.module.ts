@@ -15,13 +15,17 @@ import {
 } from '@angular/material';
 import { FileuploadComponent } from './components/fileupload/fileupload.component';
 import {FormsModule} from '@angular/forms';
+import { PageBodyComponent } from './components/page-body/page-body.component';
 
+import { FlexLayoutModule } from '@angular/flex-layout';
+import {HttpClientModule} from '@angular/common/http';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    FileuploadComponent
+    FileuploadComponent,
+    PageBodyComponent
   ],
   imports: [
     BrowserModule,
@@ -36,8 +40,11 @@ import {FormsModule} from '@angular/forms';
     MatInputModule,
     MatCardModule,
     FormsModule,
+    FlexLayoutModule,
+    HttpClientModule
   ],
   providers: [],
+  entryComponents: [FileuploadComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
