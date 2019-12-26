@@ -53,3 +53,13 @@ A MEAN Photo Gallery, including
 + Angular frontend, with Material
 + Node.js backend, with Express.js
 + MongoDB to store the pictures
+
+## Chapter 5
+
+![ch05_1](ch05_1.png)
+![ch05_2](ch05_2.png)
+Angular ToDo App with GraphQL and Apollo, including
+
++ Angular frontend, with Apollo client and routing
++ Node.js backend, with Apollo server and GraphQL resolver
++ MongoDB to store the data
