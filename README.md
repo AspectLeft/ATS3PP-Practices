@@ -63,3 +63,13 @@ Angular ToDo App with GraphQL and Apollo, including
 + Angular frontend, with Apollo client and routing
 + Node.js backend, with Apollo server and GraphQL resolver
 + MongoDB to store the data
+
+## Chapter 6
+
+![ch06_1](ch06_1.png)
+![ch06_2](ch06_2.png)
+Angular Chat Room Application Using Socket.IO, including
+
++ Angular frontend, with Socket.IO and auto0
++ Node.js backend, with Socket.IO and
++ MongoDB to store the data
