@@ -73,3 +73,14 @@ Angular Chat Room Application Using Socket.IO, including
 + Angular frontend, with Socket.IO and auto0
 + Node.js backend, with Socket.IO and
 + MongoDB to store the data
+
+## Chapter 7
+
+![ch07](ch07.png)
+Angular Cloud-Based Mapping with Firebase
+
++ Angular frontend, with Bing Map
++ Firebase backend to store the data
+
+### Note
+The secrets of Bing Map and Firebase are in `environment.ts` and `environment.prod.ts`, but their values are not commited.
