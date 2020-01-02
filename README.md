@@ -83,9 +83,11 @@ Angular Cloud-Based Mapping with Firebase
 + Firebase backend to store the data
 
 ### Note
+
 The secrets of Bing Map and Firebase are in `environment.ts` and `environment.prod.ts`, but their values are not commited.
 
 ## Chapter 8
+
 A CRM Using React and Microservices
 
 + React frontend, with Bootstrap
@@ -93,5 +95,16 @@ A CRM Using React and Microservices
 + Firebase database
 
 ### Note
+
 + The secrets of Firebase are ignored.
 + After installing Docker, DNS must be specified in settings.
+
+## Chapter 9
+
+![ch09](ch09.png)
+
+An image recognition demo with Vue and TensorFlow.js
+
++ Vue frontend with TensorFlow.js
++ Image classifation with pre-trained models from `@tensorflow-models/mobilenet`
++ Pose detection with pre-trained models from `@tensorflow-models/posenet`
