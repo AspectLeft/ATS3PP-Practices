@@ -84,3 +84,14 @@ Angular Cloud-Based Mapping with Firebase
 
 ### Note
 The secrets of Bing Map and Firebase are in `environment.ts` and `environment.prod.ts`, but their values are not commited.
+
+## Chapter 8
+A CRM Using React and Microservices
+
++ React frontend, with Bootstrap
++ Docker backend, with 3 separate containers
++ Firebase database
+
+### Note
++ The secrets of Firebase are ignored.
++ After installing Docker, DNS must be specified in settings.
