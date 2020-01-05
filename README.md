@@ -108,3 +108,12 @@ An image recognition demo with Vue and TensorFlow.js
 + Vue frontend with TensorFlow.js
 + Image classifation with pre-trained models from `@tensorflow-models/mobilenet`
 + Pose detection with pre-trained models from `@tensorflow-models/posenet`
+
+## Chapter 10
+
+![ch10](ch10.png)
+
+An ASP.NET Core Music Library
+
++ ASP.NET Core MVC, with Typescript support
++ Discogs for searching muscians
